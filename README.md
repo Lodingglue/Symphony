@@ -48,7 +48,7 @@ PLEASE NOTE THAT this is a MODIFICATION of the Discord APP and this is AGAINST T
 5. Go in to downloads in your files and find Download folder inside it and then install symphony apk
 
 
-6. If Google Play warns you about this application being unverified, ignore it. This happens because Aliucord is built & signed locally on your device so Play Protect doesn't recognise the signature¹
+6. If Google Play warns you about this application being unverified, ignore it. This happens because Symphony is built & signed locally on your device so Play Protect doesn't recognise the signature¹
 
 *The process takes around 10 min depending on your internet*
 
